@@ -1,10 +1,1 @@
-![Alt Text](img/1.jpg)
-![Alt Text](img/2.jpg)
-![Alt Text](img/3.jpg)
-![Alt Text](img/4.jpg)
-![Alt Text](img/5.jpg)
-![Alt Text](img/6.jpg)
-![Alt Text](img/7.jpg)
-![Alt Text](img/8.jpg)
-![Alt Text](img/9.jpg)
-![Alt Text](img/10.jpg)
+
